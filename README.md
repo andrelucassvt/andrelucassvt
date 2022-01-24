@@ -2,7 +2,6 @@
 <div>
   <a href="https://github.com/andrelucassvt">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andrelucassvt&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andresalvador-vwi&layout=compact&langs_count=4&theme=dracula"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="andre-dart" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg"/>
@@ -20,7 +19,7 @@
  
 </div>
   
-
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andresalvador-vwi&layout=compact&langs_count=4&theme=dracula"/>
 <!--
 **andrelucassvt/andrelucassvt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
