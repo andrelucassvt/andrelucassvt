@@ -1,4 +1,4 @@
-### Olá, eu me chamo André Lucas 👋
+### Hi, I'm Andrew Lucas👋
 <div>
   <a href="https://github.com/andrelucassvt">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andrelucassvt&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
